@@ -22,11 +22,11 @@
 ## Deploying
 
 ### Deploy on Heroku
-[![Deploy On Heroku With HxBots](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kirodewal/Gdrive-UploadBot/tree/HxBots)
+[![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dragonpower8/gup)
 
 ### How To Deploy:
 
-[Ask In Group](https://t.me/HxSupport)
+[Ask In Group](https://t.me/Kai_8_4)
 
 
 ### Installation
