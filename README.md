@@ -22,7 +22,7 @@
 ## Deploying
 
 ### Deploy on Heroku
-[![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Dragonpower8/gup)
+[![Deploy On Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/techyboy72/G-Drive-Waris)
 
 ### How To Deploy:
 
